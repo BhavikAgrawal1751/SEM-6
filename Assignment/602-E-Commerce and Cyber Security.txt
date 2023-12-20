@@ -1,0 +1,15 @@
+Assignment 1
+
+1. Define cyber smearing, cyber-squatting and cyber terrorism, Data Diddling
+
+2. Differentiate viruses and worms and Trojans.
+
+3. What is e-mail fraud? Explain various forms of e-mail frauds.
+
+Assignment 2
+
+1. Explain Component of I-Way with example in detail.
+
+2. Write a note on various DoS attacks, EFT, EDI, types of SQL Injection
+
+3. Explain architectural framework of E-Commerce.

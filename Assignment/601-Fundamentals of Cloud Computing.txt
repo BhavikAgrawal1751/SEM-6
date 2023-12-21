@@ -1,0 +1,15 @@
+Assignment 1
+
+1. Explain types of clouds on bases of deployment model.
+
+2. Explain characteristics of cloud computing in detail.
+
+3. What is virtualization? Explain its main types.
+
+Assignment 2
+
+1. Explain architecture of cloud computing.
+
+2. Explain cloud data security challenges.
+
+3. Write a note on Big Data and Data Lake.

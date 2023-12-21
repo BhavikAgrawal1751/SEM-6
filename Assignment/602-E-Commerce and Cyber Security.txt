@@ -2,7 +2,11 @@ Assignment 1
 
 1. Define cyber smearing, cyber-squatting and cyber terrorism, Data Diddling
 
+https://www.techtarget.com/searchsecurity/definition/cyberstalking
+
 2. Differentiate viruses and worms and Trojans.
+
+https://g.co/bard/share/0e4b9e3d05ec
 
 3. What is e-mail fraud? Explain various forms of e-mail frauds.
 

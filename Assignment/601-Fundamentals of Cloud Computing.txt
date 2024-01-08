@@ -2,7 +2,11 @@ Assignment 1
 
 1. Explain types of clouds on bases of deployment model.
 
+https://chat.openai.com/share/63fd81dc-ad5e-4b61-99cb-51c6168f6b50
+
 2. Explain characteristics of cloud computing in detail.
+
+https://g.co/bard/share/91cecec75562
 
 3. What is virtualization? Explain its main types.
 

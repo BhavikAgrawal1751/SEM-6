@@ -1,0 +1,155 @@
+(1) What is E-Commerce? List out application of E-Commerce.  
+=> Buying and selling of goods and services over the internet.
+=> cut costs while improving the quality of goods and services.
+
+=> E-Commerce is a modern business methodology that addresses the needs of 
+organizations, merchants, and consumers to  and increasing the speed of service delivery.
+
+Primary applications :-
+
+Business-to-consumer (B2C) 
+Business-to Business (B2B) 
+Consumer-to-consumer (C2C) 
+Consumer-to-Business (C2B) 
+
+ Other Applications of E-Commerce :-
+
+ 1. Business-to-Employee (B2E) 
+ 2. Government-to-Government (G2G) 
+ 3. Government-to-Employee (G2E) 
+ 4. Government-to-Business (G2B) 
+ 5. Business-to- Government (B2G) 
+ 6. Government-to-Citizen (G2C) 
+ 7. Citizen-to-Government (C2G) 
+
+(2) What do you mean by B2B transaction? Give examples.
+=> Business-to-business (B2B) is a exchange of goods ,services or information
+between two or more bussinesses. As example a manufacturer to the business or 
+wholesale and retailer.
+
+(3) Differences :
+ 
+ ** ATM , Debit card and Credit Card **
+
+ATM card : It is card that directly connected with your bank account can only 
+usable to withdraw avilable funds from bank account using ATM machine.
+It don't have logo in front side of card of Mastercard , Visa or RuPay.
+	
+Debit card : It is card that directly connected with your bank account but can
+be used for various purposes like withdraw Avilable funds in bank account from ATM machine , Online transaction,
+Swap Machines and etc. It have logo in front side of card of Mastercard , Visa or RuPay.
+
+Credit Card : This card is not 
+
+ => Virus , Trojan and Worm attack
+
+ Virus:
+
+A virus is a type of malware that attaches itself to a legitimate program or file to spread and replicate when the infected program or file is executed.
+Viruses often aim to corrupt or modify files, and they can also be designed to steal data or perform other malicious activities.
+Trojan:
+
+A Trojan, short for Trojan Horse, is a type of malware disguised as legitimate software. Unlike viruses, Trojans do not replicate on their own.
+Trojans may be distributed through various means, including pirated software or seemingly harmless downloads. They can create a backdoor, allowing unauthorized access to a system.
+Worms:
+
+Worms are standalone malware programs that replicate and spread across computer networks without the need for a host file or program.
+Unlike your description, worms are not primarily intended to slow down a system but rather to replicate and spread, often affecting network performance due to their self-replicating nature.
+Here's a revised summary:
+
+Virus: Replicates by attaching itself to files; can corrupt files and steal data.
+Trojan: Disguised as legitimate software; creates a backdoor for unauthorized access.
+Worm: Self-replicating malware that spreads across networks; not necessarily intended to slow down systems.
+These distinctions provide a clearer understanding of the characteristics and behaviors of viruses, trojans, and worms.
+
+(4) Explain HTTPD servers.
+=> Stands for Hyper text transfer protocal Demon.It is software application that runs on
+the web server in background.It handles the HTTP requests and serveing web pages to the client.
+It manage and respond to http requests on the server in background and facilitiat communication
+between Web server and Web browser.
+
+(5) Which are the risks in electronic payment system? 
+-> Fraud
+-> Payment Gateway Risks
+-> Phishing
+-> Lake of customer trust
+-> Unreliable Suppliers
+-> Transaction Delays
+-> Connectivity issues
+-> Data leak
+
+(6) What is EDI ? What is SSL ?
+=> It stands for electronic data interchange.Electronic data means
+data that are stored in Mobile and computers and interchange means
+exchange of that data between two or more entites such as various
+business partners exchanges invoices, purchase order , sales order
+etc.
+
+SSL stands for secure socket layer. It is a web protocol to encrypt
+the data while communicating with the client.The use of SSL is what 
+transforms the standard HTTP protocol to the secure HTTPS 
+(Hypertext Transfer Protocol Secure).
+
+(7) What is cyber defamation ?
+=> Cyber defamation referc to the act of spreading false information
+for the individuals or entity.Its intention is to harm the repect/reputation
+of the target or fanicial lose to the target.
+
+(8) What is cyber squatting ?
+=> Cybersquatting refers to the registration of the same or a similar domain as an already established trademark or brand. This practice can cause confusion among consumers, potentially leading them to use services not affiliated with the legitimate owner of the trademark or brand, resulting in a loss of customer trust. Additionally, cybersquatters may register such domains with the intention of demanding money from the original trademark or brand owner for the release of the domain. This activity is also known as domain squatting.
+
+(9) Define cyber smearing ?
+=> same as defamation but more that defamation.
+
+(10) What is Cyber Terrorism ?
+=> Cyber terrorism refers to the use of technology in such intented way to 
+create fear amoung the bussineses/enitities/individuals or Harm the system of the target.It includes cyber attacks , DoS attacks and Spread of malwares.
+
+(11) What is Web/Cyber Crawling ?
+=> Cyber crawling is the automated way of collecting information from websites using 
+bots or web crawlers. It's commonly used by search engines to index web content 
+for users. However, it can also be used for purposes like data mining and content 
+aggregation.
+
+(12) Explain Software piracy.
+=> unauthorized copying, distribution, or use of software without the proper license or permission from the copyright holder.
+=> Supponse you have purchased a book from the internet but after getting that book
+you have shared that with your friend without permission of copyright owner or you have published that for free on your site to grow your audiance, so that is software
+piracy.
+
+(13) Define : E-cheque and debit card.
+=> E-cheque :
+E-cheque is the electroic way for processing cheque instead of physical.
+It is same as physical check but more secure and faster than physical check.
+It is written by payer in any computer device or other devices and signed digitally
+by the payer and sent to the payee(Reciver) then payee can get amount of that cheque
+from payers bank account using online or net banking systems.
+
+(14) What is I-Way? List its components.
+=> I-way means Information (super) highway which refers to the globally connected digital network,primarily over the internet.It is used to exchange of information very faster.
+
+It components are : 
+Satelite
+Data centers
+Web browsers
+Web servers
+Fibar optic cable
+internet
+communication protocols
+
+(15) What is Supply Chain Management?
+=> supply chain management (SCM) is management of the flow of goods, data, and finances related to a product or service, from the raw materials to the delivery of the product at its final destination.
+
+(16) HTTPS: Hypertext Transfer Protocol Secure is a secure communication protocol between a web server and web browser. It encrypts data transfer using TLS/SSL, ensuring privacy and protecting against eavesdropping and attacks.
+
+(17) Aims of E-Commerce:
+expanding reach, 
+reducing costs, 
+enhancing customer experience, 
+offering personalized services, 
+boosting sales, 
+and improving operational efficiency.
+
+(18) Cyber Terrorism: The use of hacking, malware, and other tactics to attack computer systems and networks for disruptive, political, or ideological purposes, often targeting critical infrastructure or government systems.
+
+(19) EFT (Electronic Funds Transfer): Transferring money electronically between two accounts, such as between banks or through online payment systems. Faster and more convenient than traditional methods like checks.

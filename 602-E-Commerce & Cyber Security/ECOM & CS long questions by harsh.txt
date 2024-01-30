@@ -1,0 +1,35 @@
+(1) I way and its componants in detail.
+
+(2) Architectural framework for e-commerce (Six layers in detail with diagram).
+
+(3) What are the Different Types of Cyber Crime? 
+
+(4) E-Mail related Crimes: Spoofing, Spamming, And Bombing.
+
+(5) IP address and MAC address. (also difference table)
+
+(6) Concepts of SQL Injection and its types.
+
+(7) Concept of firewall.
+
+(8) Write a note on QR retailing. 
+
+(9) What is Electronic cash? How e-cash system works? Explain. 
+
+(10) E-Commerce transaction models.
+
+(11) Short notes : (Most IMP for 7 marks)
+	-> Cyber Stacking
+	-> Security on web
+	-> Cyber terrorism
+	-> Credit Card-Based Electronic Payment Systems
+	-> M-commerce
+
+(12) What do you mean by DoS attack? Explain along with its types.
+
+(13) Write a note on Network Access Equipment.
+
+(14) Debit and Credit Card Based Payment.
+
+
+

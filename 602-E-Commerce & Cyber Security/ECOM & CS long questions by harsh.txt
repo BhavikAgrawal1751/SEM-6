@@ -1,33 +1,195 @@
 (1) I way and its componants in detail.
+=> I way stands for Information super highway.
+It is interconnected global network allow us to share data faster and securly, over the internet.
+
+Componants of I-way:
+
+Web server
+Web browser
+Fiber optic cable
+Satelite
+Data center
+internet
+communication protocals.
+
+Componants of I-way:
+
+CAE (Consumer access equipemnts)
+Access Roads/Media (Local on Ramps) 
+	-> Telecommunitcation based
+	-> Cable TV based
+	-> Computer based
+	-> Wireless roads
+GIDN(Global information distribution network)
 
 (2) Architectural framework for e-commerce (Six layers in detail with diagram).
+=> It have the 4 main building blocks and 2 pillers to support that building blocks
+
+Main 4 building blocks (infrastructure)..
+(a) I way
+(b) multimedia content and network publishing infra
+(c) Messaging & information distribution infra
+(d) common bussines services
+
+Supportive 2 pillers :
+(1) Public policy and cyber law
+(2) technical standards and protocols
 
 (3) What are the Different Types of Cyber Crime? 
+Email attacks
+Malware
+DoS and DDoS attack
+Phishing
+Cross side scripting
+SQL injection
+Man in middle attack
+Hacking.
 
 (4) E-Mail related Crimes: Spoofing, Spamming, And Bombing.
+Spoofing : Hiding the real email and showing any other email of some trusted and known entity or trademark
+Spamming : Sending bulk email related to advertising to consume the bandwidth of server and network and will to wast or harrase individuals.
+Bombing : Sending large numbers of email to the single person or server to crash the system or overload it and situation like DoS or DDoS attacks. Intenstion is to harrase the person or crash the server.
 
 (5) IP address and MAC address. (also difference table)
+Full form
+defination
+Address type
+Provider
+size
+retrived by 
 
 (6) Concepts of SQL Injection and its types.
+=> Inband sqli
+	-> Error based sqli
+	-> Union based sqli
+=> Blind sqli
+	-> Boolean based sqli
+	-> Time based sqli
+=> Out of bound sqli
 
-(7) Concept of firewall.
+(7) Concept of firewall. (Removed)
 
 (8) Write a note on QR retailing. 
 
-(9) What is Electronic cash? How e-cash system works? Explain. 
+(9) What is Electronic cash? How e-cash system works? Explain.
+E-cash is a digital currancy or electronic cash that allow us to do payments without bank and others as a mediator.
+By using e-cash we can directly pay to the merchant using e-wallet provided by the Authorised authority like
+paytm wallet which manage and stores e-cash.
+
+(1) Account creation
+(2) account funding
+(3) convertion rates
+(4) E-wallet
+(5) payments to the marchant
+(6) double spending prevention
+(7) marchent confirmation
+(8) transaction details
+(9) Security messures
+
+Account Creation:
+
+Users create an account with the e-cash system, providing necessary information for identification purposes.
+
+Account Funding:
+
+Users fund their e-cash account by transferring traditional currency into the electronic system through various payment methods like bank transfers or credit cards.
+
+Conversion Rates:
+
+The traditional currency is converted into digital or electronic cash at a predefined exchange rate, and the equivalent amount of e-cash is credited to the user's account.
+
+E-wallet:
+
+Users typically have a digital wallet associated with their e-cash account. This wallet securely stores the digital cash and facilitates transactions.
+
+Payments to the Merchant:
+
+Users initiate transactions to pay merchants directly using their digital wallet. The e-cash system facilitates the transfer of digital cash from the payer to the payee.
+
+Double Spending Prevention:
+
+Measures are in place to prevent double spending, ensuring that the same unit of e-cash is not used in multiple transactions. This is often achieved through cryptographic techniques and consensus mechanisms in decentralized systems.
+
+Merchant Confirmation:
+
+Merchants receive confirmation of the payment from the e-cash system, and the transaction details are updated.
+
+Transaction Details:
+
+Details of the transaction, including the amount, date, and involved parties, are recorded in a ledger or database maintained by the e-cash system.
+
+Security Measures:
+
+Various security measures, such as encryption, digital signatures, and secure authentication protocols, are implemented to ensure the integrity, confidentiality, and authenticity of transactions.
 
 (10) E-Commerce transaction models.
+=> B2B and so on...
 
 (11) Short notes : (Most IMP for 7 marks)
 	-> Cyber Stacking
-	-> Security on web
+	 	-Cyber stacking is a repeated act of harresment and threating individuals by using services provided by the internet
+		
+		-harassing phone calls, damaging property, or leaving written messages by the email is most common cyber stackings.
+		
+		-Both online and offline stalkers aim to control the victim's life.
+		
+		-First of all , cyber stacker gather and collect the information about victim from social media sites and profile 		which is publically avilable data then follows the routine of the target.
+		
+		-Cyber stacker with spread the false informations and about victim to the websites related to sexual activities and 
+		dating or more.
+		
+		-Cyber stacker use the obscene languages to invite nagative audiance by which victim's reputation and repeact may be 
+		in trouble.It can be done by posting contact of the target to the pornographic sites and other social platform which 
+		shows that victim is asking for sexual activities from the public.
+		
+		-That may leading to unwanted calls for sexual services.
+		
+		-Attacker may threatend the victim by chating application anonymousely or on other social media or email by creating 
+		fake accounts. 
+
+	-> Security on web (All about HTTP to HTTPs , SSL and TSL, IP and MAC)
 	-> Cyber terrorism
 	-> Credit Card-Based Electronic Payment Systems
 	-> M-commerce
 
 (12) What do you mean by DoS attack? Explain along with its types.
+=> DoS stands for denial of service attack.DoS attack target the server or victim's computer by sending large numbers of requests to the server. In DoS attack ,attacker send large number of request more then the server's capacity in intention to crash the server,hang the server or slowdown the server. It prevents the intended users to access the services from that server which may leads to trust issue of users to the service.
+
+Types of DoS Attacks:(7)
+
+=> Ping Flood Attack:
+
+	The attacker sends a large number of ICMP (Internet Control Message Protocol) echo request messages (ping) to the target, overwhelming its capacity to respond.
+
+=> SYN/ACK Flood Attack:
+
+	Exploiting vulnerabilities in the TCP handshake process, the attacker floods the target with numerous connection requests, exhausting its resources.
+
+=> UDP Flood Attack:
+
+	The attacker inundates the target with a high volume of User Datagram Protocol (UDP) packets, causing the server to become unresponsive.
+
+=> HTTP Flood Attack:
+
+	The attacker floods the target server with a massive number of HTTP requests, exhausting its resources and making it unable to serve legitimate users.
+
+=> Smurf Attack:
+
+	This attack amplifies the impact by directing the flood of requests through a network's broadcast addresses, causing multiple systems to respond to each request.
+
+=> DNS Amplification Attack:
+
+	The attacker exploits open DNS servers to amplify the volume of traffic directed at the target, overwhelming its capacity.
+
+=> NTP Amplification Attack:
+
+	Similar to DNS amplification, this attack uses vulnerable NTP (Network Time Protocol) servers to amplify and redirect traffic towards the target.
 
 (13) Write a note on Network Access Equipment.
+=> It is a componant of Information super hightway. It is also called as consumer access the internet.
+=> Network access equiments include hardware and softwars to access the network.
+=> Hardware equipment refers to the router,modem,hub,swithces,fiber cable,computer and others.
+=> Software equiment refers to the Browser and Operating systems or a application provided by the merchant.
 
 (14) Debit and Credit Card Based Payment.
 

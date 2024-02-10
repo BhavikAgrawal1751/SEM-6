@@ -1,0 +1,46 @@
+there is three type of cloud service modals.
+
+(1)IaaS
+(2)PaaS
+(3)SaaS
+
+(1)IaaS : 
+-> Infrastructure as a service
+-> IaaS provides infratructure means Data storage , Virtualisation,
+Operating System, Hypervisor, Network configurations and other things
+to handle.
+-> IaaS have over all control over all the network and suitable for
+IT administrators.
+-> It follows pay-for-what-you-use modal.
+
+Example : Supose we want home to stay then puchasing home is costly
+so just we can rent any home by the medieter for some time and we will
+only pay for the time we used home.
+
+(2)PaaS :
+-> Platform as a service
+-> PaaS provides the runtime environment for the application and various tools and services
+to handle development , debuging and testing.
+-> Platform as a Service (PaaS) typically follows a subscription-based pricing model. 
+-> In PaaS every thing that we need to handle the cloud is provided by the vendors.
+-> We dont have control on data storage ,Network and other things.We just have a access
+to the platform which is given by the Vendors to work on it such as application
+and its data.
+-> It is suitable for developers who test and debug the application and modify the application
+according to the vendors need.
+
+Example : Suppose we have the local website and want to publish on the server so we can just 
+buy the Cloud platform to run our application according to the language and others like data storage
+Operating system will be handled by the IT admins (Vendors).
+
+(3) SaaS:
+-> Software as a service
+-> In SaaS everthing is managed by the cloud service provider we just need to internet to manage
+the application which is avilable to the end user. 
+-> It follows pay as you go model.
+-> In this we dont have control to the data storage server runtime network and it is managed by the
+cloud service provider it self.
+-> It is mainly suitable for the end users or Client.
+
+Example : Gmail is google's software that provided to us we just need to create account and manage the setting
+to use the services over the internet.

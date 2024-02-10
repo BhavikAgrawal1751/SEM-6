@@ -1,0 +1,47 @@
+(1) Types of Cloud based deployment? (4 types)(also difference)
+
+(2) Cloud services models with details & example ? Advantages and Disadvantages.
+
+(3) Cloud Computing Architecture.
+
+(4) Cloud computing advantages and disadvantages.
+=> Advantages :-
+	(1) Cost effective : offers pay-as-you-go pricing, and reduces maintenance expenses.
+	(2) scalable : this allows businesses to adapt to changing demands without over-provisioning
+	(3) Secure : Cloud providers typically have robust security
+	(4) Automatic updates :  It saves time and effort on maintenance
+	(5) Realiable : High uptime and disaster recovery capabilities are key reasons for cloud's reliability
+	(6) Faster deployment : launching new applications or services much quicker than on-premises solutions 
+	(7) on-demand service : provides verious services like IaaS,PaaS and SaaS we can choose according to the needs.
+
+=> Disadvantages :-
+	(1) Vendor change : difficulty of switching to another provider due to data migration challenges and proprietary features.
+	(2) Security concerns : Some times data lake and communications security may be in danger if not handled correctly.
+	(3) Internet dependency : Outages or disruptions can impact operations can cause major issues
+	(4) Downtime : While rare, cloud services can experience downtime due to maintenance or technical issues, affecting your applications and operations.
+	(5) Hidden charges : Unexpected usage spikes or additional services can lead to higher costs than initially anticipated.
+
+(6) Hypervisor in cloud computing.
+
+(7) Virtulization and Types of Virtulization - Advantages and Disadvantages.
+----
+(8) Difference between Transactional data and Big Data.
+=>
+
+volumn: 
+	-> Smaller in volume dealing with day to day operation of org
+	-> Larger in volumn often reaching petabyte or more
+
+
+
+
+(9) What is data warehousing , OLAP & OLTP in data processing technique.
+
+(10) Data lake with its architecture.
+
+(11) What is big data? compare big data with traditional database system 
+with benefits.
+
+(12) Short note :
+	-> Cloud security alliance.
+	-> Infrastructure components of cloud.

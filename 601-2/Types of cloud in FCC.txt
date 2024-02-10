@@ -1,0 +1,55 @@
+(1) public cloud :-
+
+	The cloud that owned by any third party or Cloud Service provider it self which is accessiable to the public
+	for sharing the data storage and other services between individuals , comunnities or bussinesses is called as public cloud.
+
+	Advantages :
+		-> cost reduction : bcz pay as you go model
+		-> Highly scable : It can expend the structure according to the needs.
+		-> Easy Recovery : bcz of daily backups by cloud it self
+
+	Disadvantages :
+		-> Unpredible cost
+		-> Data security and privacy concern
+		-> Limited control over the infra and data
+
+(2) private cloud :- 
+
+	The cloud that is owned by any Single person or bussiness not accessiable to the public is called as private cloud.
+	This cloud have greate control , security and privacy over the network.
+
+	Advantages :
+		-> Secure data
+		-> Fixed Goal
+
+	Disadvantages :
+		-> Require Experts to Operate system
+		-> Restricted Area of operation
+
+(3) Hybrid cloud :-
+
+	In simple terms there is many cons of the public and private cloud so eliminate that we can create Hybrid cloud which
+	is combination of public and private cloud to get the advantages and facitiate address peaks loads.It is more faster
+	secure and cost effective then public and private cloud.
+
+	Advantages :
+		-> Secure
+		-> Cost effective
+		-> Faster
+
+	Disadvantages :
+		-> Require more knowledge
+		-> Complex structure
+
+(4) Community cloud :-
+
+	community cloud is created by integreting services of different cloud to archive specific needs of industry,community or business. It allow to share the data but sharing responsibilities are difficult to handle.
+
+	Advantages :
+		-> cost effective
+		-> Speed
+		-> Security
+
+	Disadvantages :
+		-> Not suitable for all types of businesses and should determine first.
+		-> challanges in sharing responsibility.

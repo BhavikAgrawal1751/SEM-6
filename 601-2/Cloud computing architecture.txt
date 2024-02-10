@@ -1,0 +1,34 @@
+Cloud computing architecture Refers to the componant and subscomponants that needed in cloud computing.
+Cloud computing is mainly consist of FrontEnd, BackEnd, Service delivery and internet.
+
+There is many compoanant and subcomponant of the cloud computing but we can broadly divide them into
+2 main parts : Frontend and backend. Both end is connected to the each other over the network by the
+internet.
+
+Frontend:-
+
+Frontend refers to the client side Graphic represantation of the cloud computing by which client can
+easily use the cloud services.
+
+Backend:-
+
+Backend refers to the cloud itself. It contains Storage, Virtualization, Security, Managment, Application,
+cloud runtime and its infrastructure. In backend we manage the services of the cloud to faciticate end
+user and it is responsibily of the backend to provide security and protocols to the cloud.
+
+here are some sub componant of the backend briefly described..
+
+(1) Security : Security is mainly handled by the backend using protocals to secure the communication
+and data exchange between client and cloud server.
+
+(2) Storage : Storage mean the place where we store users data.
+
+(3) Application : In this backend use business logics to handle the application and store users data.
+
+(4) cloud runtime : Cloud runtime is the place used by the cloud to run Virtual machines and other hypervisor
+application and provide runtime environment to them.
+
+(5) Infrastructure : Infratructure means hardwares and softwares that we required for cloud computing such as
+Operation systems ,Physical servers ,etc.
+
+(6) Managment : In this phase , we manage all the componants to work together and do intented task. 

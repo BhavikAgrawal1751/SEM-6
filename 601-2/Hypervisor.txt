@@ -6,8 +6,11 @@ There are two types of Hypervisors :
 (2) Type 2 Hypervisor
 
 (1) Type 1 Hypervisor :
--> This hypervisor is also called as bare-metal hypervisor. This type of hypervisor is directly installed on the Hardware like a lightweight os and host machine do not have any os pre-installed on it. It have direct access to the physical resources such as CPU, RAM, Processor, etc. By using this we can directly create the Virtual Machines on the
-Physical machine. It is very efficient and faster because it remove the dependency of the os on physical machine. Example : VMware ESXi,Citrix,Microsoft Hyper-V server.
+
+-> This hypervisor is also called as bare-metal hypervisor. This type of hypervisor is directly installed on the Hardware 
+   like a lightweight os and host machine do not have any os pre-installed on it. It have direct access to the physical resources 
+   such as CPU, RAM, Processor, etc. By using this we can directly create the Virtual Machines on the Physical machine. 
+   It is very efficient and faster because it remove the dependency of the os on physical machine. Example : VMware ESXi,Citrix,Microsoft Hyper-V server.
 
 (2) Type 2 Hypervisor :
 -> This hypervisor is also called as hosted hypervisor. This type of Hypervisor is not directly installed on the hardware ,there is Operating system installed on the physical machine and in that Operating system Type 2 hypervisor is installed as a software programe. It is generally less efficient then type 1 hypervisor because it have 1 additional layer called operating system. Operating generally allows to manage the drivers and network and other configuration.Example : VMwares , microsoft Hyper-V and oracle virtual box.

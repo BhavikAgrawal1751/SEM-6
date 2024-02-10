@@ -18,11 +18,21 @@ Dataware house is generally divided into three tier architecture.
 -> Consist of front-end tools which allows end users to conduct analytics for the data.
 
 == OLAP ==
-OLAP (online analytical processing) is a computing method that enables users to easily and selectively extract and query data in order to analyze it from different points of view. OLAP business intelligence queries often aid in trends analysis, financial reporting, sales forecasting, budgeting and other planning purposes
+OLAP (online analytical processing) is a computing method that enables users to easily and selectively extract and query data 
+in order to analyze it from different points of view. 
+
+OLAP business intelligence queries often aid in trends analysis, financial reporting, sales forecasting, budgeting 
+and other planning purposes
 
 == OLTP ==
-OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example. These transactions traditionally are referred to as economic or financial transactions, recorded and secured so that an enterprise can access the information anytime for accounting or reporting purposes.
+OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions 
+occurring concurrently—online banking, shopping, order entry, or sending text messages, for example. 
+
+These transactions traditionally are referred to as economic or financial transactions, 
+recorded and secured so that an enterprise can access the information anytime for accounting or reporting purposes.
+
 ==============================================================================================================================================================
+
 OLAP vs OLTP
 -------------
 

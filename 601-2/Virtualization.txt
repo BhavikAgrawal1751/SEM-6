@@ -1,8 +1,13 @@
-Virtualization refers to the process of creating virtual instances of computing resources, such as virtual machines (VMs), on a single physical machine or server. These virtual instances can include allocated CPU, RAM, network resources, and other components. 
+Virtualization refers to the process of creating virtual instances of computing resources, 
+such as virtual machines (VMs), on a single physical machine or server. 
 
-The goal is to enable multiple operating systems and applications to run independently on the same physical hardware, allowing for better resource utilization, flexibility, and isolation between different computing environments.
+These virtual instances can include allocated CPU, RAM, network resources, and other components. 
+
+The goal is to enable multiple operating systems and applications to run independently on the same physical hardware, 
+allowing for better resource utilization, flexibility, and isolation between different computing environments.
 
 There are many types of virtualization but here are some main from that :
+
 (1) Application virtualization
 (2) Network virtualization
 (3) Storage virtualization
